@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="learning-spring" />
+        <module name="room-web-app" />
+        <module name="booting-web" />
+        <module name="room-clr" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="booting-web" target="17" />
+      <module name="learning-spring" target="17" />
+      <module name="room-clr" target="17" />
+      <module name="room-web-app" target="17" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="booting-web" options="-parameters" />
+      <module name="learning-spring" options="-parameters" />
+      <module name="room-clr" options="-parameters" />
+      <module name="room-web-app" options="-parameters" />
+    </option>
+  </component>
+</project>
