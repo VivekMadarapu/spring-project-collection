@@ -18,7 +18,7 @@
       <module name="learning-spring" target="17" />
       <module name="room-clr" target="17" />
       <module name="room-web-app" target="17" />
-      <module name="sfid" target="11" />
+      <module name="sfid" target="17" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
@@ -27,7 +27,7 @@
       <module name="learning-spring" options="-parameters" />
       <module name="room-clr" options="-parameters" />
       <module name="room-web-app" options="-parameters" />
-      <module name="sfid" options="" />
+      <module name="sfid" options="-parameters" />
     </option>
   </component>
 </project>
