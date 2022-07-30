@@ -9,6 +9,7 @@
         <module name="learning-spring" />
         <module name="room-web-app" />
         <module name="booting-web" />
+        <module name="sfid" />
         <module name="room-clr" />
       </profile>
     </annotationProcessing>
@@ -17,6 +18,7 @@
       <module name="learning-spring" target="17" />
       <module name="room-clr" target="17" />
       <module name="room-web-app" target="17" />
+      <module name="sfid" target="11" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
@@ -25,6 +27,7 @@
       <module name="learning-spring" options="-parameters" />
       <module name="room-clr" options="-parameters" />
       <module name="room-web-app" options="-parameters" />
+      <module name="sfid" options="" />
     </option>
   </component>
 </project>

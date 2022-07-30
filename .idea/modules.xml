@@ -7,6 +7,7 @@
       <module fileurl="file://$PROJECT_DIR$/learning-spring/learning-spring.iml" filepath="$PROJECT_DIR$/learning-spring/learning-spring.iml" />
       <module fileurl="file://$PROJECT_DIR$/room-clr/room-clr.iml" filepath="$PROJECT_DIR$/room-clr/room-clr.iml" />
       <module fileurl="file://$PROJECT_DIR$/room-web-app/room-web-app.iml" filepath="$PROJECT_DIR$/room-web-app/room-web-app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sfid/sfid.iml" filepath="$PROJECT_DIR$/sfid/sfid.iml" />
     </modules>
   </component>
 </project>
